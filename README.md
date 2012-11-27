@@ -1,4 +1,4 @@
-user_perm
+User Perm
 =========
 
 Codeigniter User Permission Class
