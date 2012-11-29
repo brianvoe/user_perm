@@ -9,5 +9,6 @@
 	<div>Simple user permission library</div>
 	<div><a href="<?php echo site_url('users'); ?>">Manage Users</a></div>
 	<div><a href="<?php echo site_url('groups'); ?>">Manage Groups</a></div>
+	<div><a href="<?php echo site_url('check'); ?>">Check Permissions</a></div>
 </body>
 </html>
